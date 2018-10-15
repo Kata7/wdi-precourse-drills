@@ -1,0 +1,19 @@
+  	img {
+  		height: 32px;
+  		width: 44px;
+  	}
+
+  	.highlight {
+  		background: blue;
+  		color: white;
+  	}
+
+  	.left {
+  		float: left;
+  		width: 50%;
+  	}
+
+  	.right {
+  		float: right;
+  		width: 50%;
+  	}
